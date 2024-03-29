@@ -1,0 +1,25 @@
+{
+  "name": "simplecvewarning",
+  "version": "1.0.0",
+  "description": "Simple CVE Warning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurmalangin/SimpleCVEWarning.git"
+  },
+  "author": "Arthur Malangin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurmalangin/SimpleCVEWarning/issues"
+  },
+  "homepage": "https://github.com/arthurmalangin/SimpleCVEWarning#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "discord": "^0.8.2",
+    "discord.js": "^14.14.1",
+    "rss-parser": "^3.13.0"
+  }
+}
